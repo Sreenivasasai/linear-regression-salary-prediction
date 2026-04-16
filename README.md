@@ -1,21 +1,3 @@
-Got it — removing the run/installation commands makes sense for a cleaner beginner repo. Here’s your **updated GitHub content**:
-
----
-
-# ✅ **Repository Name**
-
-**linear-regression-salary-prediction** ✅ (recommended)
-
----
-
-# ✅ **Short Description**
-
-> Beginner-level Machine Learning project implementing Linear Regression to predict salary based on experience, including EDA, visualization, and model evaluation.
-
----
-
-# ✅ **README.md Content (Updated)**
-
 ## 📌 Linear Regression - Salary Prediction
 
 ### 📖 Project Overview
