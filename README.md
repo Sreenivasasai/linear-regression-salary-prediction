@@ -1,14 +1,13 @@
-## 📌 Linear Regression - Salary Prediction
+##  Linear Regression - Salary Prediction
 
-### 📖 Project Overview
+###  Project Overview
 
 This project demonstrates the implementation of **Linear Regression**, one of the fundamental Machine Learning algorithms, to predict salary based on input features such as experience.
 
 The project covers the complete workflow from data exploration to model evaluation.
 
----
 
-### 📂 Dataset
+###  Dataset
 
 * Dataset used: Salary Dataset (from Kaggle)
 * Features include:
@@ -16,9 +15,8 @@ The project covers the complete workflow from data exploration to model evaluati
   * Independent variable(s): Experience / Input features
   * Dependent variable: Salary
 
----
 
-### ⚙️ Technologies Used
+###  Technologies Used
 
 * Python
 * NumPy
@@ -27,9 +25,8 @@ The project covers the complete workflow from data exploration to model evaluati
 * Seaborn
 * Scikit-learn
 
----
 
-### 🔍 Steps Performed
+###  Steps Performed
 
 #### 1. Data Loading
 
@@ -67,32 +64,28 @@ Evaluated performance using:
 * Mean Absolute Error (MAE)
 * R² Score
 
----
 
-### 📊 Results
+###  Results
 
 The model is able to predict salary with good accuracy based on the given dataset. Evaluation metrics indicate that the model fits the data reasonably well.
 
----
 
-### 📈 Visualizations
+###  Visualizations
 
 * Distribution plots
 * Pairplot relationships
 * Correlation heatmap
 
----
 
-### 📌 Learning Outcome
+###  Learning Outcome
 
 * Understanding Linear Regression
 * Performing Exploratory Data Analysis (EDA)
 * Data preprocessing techniques
 * Evaluating machine learning models
 
----
 
-### 🤝 Future Improvements
+###  Future Improvements
 
 * Use multiple features for better prediction
 * Experiment with advanced regression models
